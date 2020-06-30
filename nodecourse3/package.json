@@ -1,0 +1,22 @@
+{
+  "name": "nodecourse3",
+  "version": "1.0.0",
+  "description": "This is sample package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nirmalgarg2006/NodeJsLearning.git"
+  },
+  "author": "Nirmal Garg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nirmalgarg2006/NodeJsLearning/issues"
+  },
+  "homepage": "https://github.com/nirmalgarg2006/NodeJsLearning#readme",
+  "dependencies": {
+    "react": "^16.13.1"
+  }
+}
